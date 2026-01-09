@@ -24,7 +24,7 @@ A modern, secure digital voting system built for SONA College of Technology with
 
 1. Install XAMPP server
 2. Clone this repository to `htdocs` folder
-3. Import the database from `db/ovs_indian_names.sql`
+3. Import the database from `db/ovs.sql`
 4. Configure database connection in `dbcon.php`
 5. Access the system via `localhost/Online_voting_system`
 
